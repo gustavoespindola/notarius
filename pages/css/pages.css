@@ -8742,7 +8742,7 @@ sup.dollar {
 }
 
 .jumbotron{
-  background: #E4F1FD;
+  background: linear-gradient(to right, rgba(76,18,141,1) 0%, rgba(173,67,125,1) 100%);
 }
 .text-blue{
   color:  #297FCA !important;
@@ -8751,3 +8751,15 @@ sup.dollar {
 .btn-green{
   background-color: #15D683;
 }
+
+.col-featured img{
+  max-width: 260px;
+  height: 290px;
+}
+
+
+
+
+
+
+
